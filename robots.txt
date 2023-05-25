@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /Under_Construction.php/
+Disallow: /404.php/
+Disallow: /blog1.php/
+Disallow: /blog2.php/
+Disallow: /404/
+Sitemap: https://delasalle.lk/sitemap.xml
